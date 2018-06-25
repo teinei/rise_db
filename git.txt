@@ -1,0 +1,3 @@
+git remote set-url origin https://teinei:gh103104@github.com/teinei/rise_db.git
+
+git remote add origin https://teinei:gh103104@github.com/teinei/rise_db.git
